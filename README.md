@@ -7,13 +7,13 @@ README
 </h1>
 
 ### Compiling
-```zsh
+```
 gcc -o server server.c
 ----------------------
 gcc -o client client.c
 ```
 ### Running 
-```zsh
+```
 [user@linux]$ ./server
 ----------------------
 [user@linux]$ ./client 
